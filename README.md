@@ -92,3 +92,11 @@ SDXL-emoji
 - 다양한 스타일로 이모지 생성기 제작
 - 정량적 평가 지표 도입(CLIP score 등)
 - prior preservation 활용해 결과물 개선
+
+## 데모
+
+```bash
+pip install -r requirements.txt
+cd ./peft/examples/lora_dreambooth_test2
+python3 /home/aikusrv02/aiku/Emoji/peft/examples/lora_dreambooth_test2/demo.py
+```
