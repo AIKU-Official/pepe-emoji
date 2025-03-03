@@ -98,5 +98,5 @@ SDXL-emoji
 ```bash
 pip install -r requirements.txt
 cd ./peft/examples/lora_dreambooth_test2
-python3 /home/aikusrv02/aiku/Emoji/peft/examples/lora_dreambooth_test2/demo.py
+python3 ./peft/examples/lora_dreambooth_test2/demo.py
 ```
